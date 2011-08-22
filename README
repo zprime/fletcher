@@ -1,0 +1,9 @@
+Fletcher is a collection of Matlab functions to not only draw arrows, but also draw arrowheads anywhere on an arbitrary line object.
+
+What sets fletcher apart from other arrow drawing functions for Matlab on the Mathworks File Exchange is its ability to place an arrowhead anywhere on a line, its ‘curve following’ arrowheads, and its ability to automatically resize when zooming or adjusting the aspect ratio.
+
+The biggest limitation of fletcher is that it is currently designed for 2 dimensional plots only.
+
+Fletcher is still under developement, so use with care and please report any bugs via the GitHub issue tracker.  In particular, I am interested in examples that break fletcher.
+
+Fletcher is Copyright (c) 2011 by Zebb Prime and The University of Adelaide, and is released under the terms of the BSD license.  Please see the terms appended to the sources.
